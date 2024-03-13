@@ -53,9 +53,13 @@ This repository contains the code and reflection for Tutorial 5 in Advanced Prog
   `Highest-GPA` Result - After Optimization
 
   <img src="https://i.imgur.com/I11q0xB.png" width="200" alt="">
-  <img src="https://i.imgur.com/5Zfoc32.png" width="200" alt="">
-  <img src="https://i.imgur.com/zjGRaYs.png" width="200" alt="">
-  <img src="https://i.imgur.com/2RBr2om.png" width="200" alt="">
-  <img src="https://i.imgur.com/m44fjAC.png" width="200" alt="">
+  <img src="https://i.imgur.com/E6SKThx.png" width="200" alt="">
+  <img src="https://i.imgur.com/3T3wqmx.png" width="200" alt="">
+  <img src="https://i.imgur.com/Vkd8MBA.png" width="200" alt="">
+  <img src="https://i.imgur.com/dfEd8uV.png" width="200" alt="">
+  
+  > After the optimization process, the performance testing results from JMeter showed a significant improvement compared to the initial measurements.
+From the images above, we can clearly see the difference in performance before and after the optimization process. The `/all-student`, `/all-student-name` and `/highest-gpa` results show a noticeable improvement in response times and overall system efficiency after the optimization.
+The response times were lower, and the system was able to handle a larger load without any degradation in performance. This indicates the effectiveness of the profiling and performance optimization process in improving the efficiency and scalability of the application.
 
 ### Reflection
